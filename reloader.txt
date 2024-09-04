@@ -1,0 +1,1 @@
+Start app with: ($env: DEBUG=1) -and (python reloader.py)
